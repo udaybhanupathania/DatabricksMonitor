@@ -18,7 +18,7 @@
             <id>scala-2.11_spark-2.4.0</id>
             <properties>
                 <commons.httpclient.version>4.5.4</commons.httpclient.version>
-                <jetty.version>9.3.20.v20170531</jetty.version>
+                <jetty.version>9.4.17.v20190418</jetty.version>
                 <spark.version>2.4.0</spark.version>
                 <scala.version>2.11.8</scala.version>
                 <scala.compat.version>2.11</scala.compat.version>
